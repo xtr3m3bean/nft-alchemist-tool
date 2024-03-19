@@ -1,0 +1,30 @@
+{
+  "name": "nft-alchemist-tool",
+  "version": "1.0.0",
+  "description": "Transform your NFT assets with NFT Alchemist Tool, offering optimization and enhancement capabilities for non-fungible tokens.",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xtr3m3bean/nft-alchemist-tool"
+  },
+  "author": "xtr3m3bean",
+  "license": "MIT",
+  "dependencies": {
+    "nft-alchemist-tool": "1.0.0",
+    "nft-bigboost": "1.0.0",
+    "web3-utils": "1.0.0",
+    "ethereumjs-util": "1.0.0",
+    "enzyme": "1.0.0",
+    "jsonwebtoken": "1.0.0",
+    "react": "1.0.0",
+    "lodash": "1.0.0",
+    "ejs": "1.0.0",
+    "redux": "1.0.0",
+    "debug": "1.0.0",
+    "axios": "1.0.0",
+    "node-sass": "1.0.0"
+  }
+}
